@@ -6,7 +6,7 @@ export const products = [
     category: "Clothing",
     brand: "Nova",
     rating: 4,
-    image: "https://picsum.photos/seed/running-shoes/500/500",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT63Epdx-sRlrNyVhWESsWmyAy-KXdgwr55Uuf0_nYbgg&s=10",
     description:
       "Lightweight running shoes built for everyday training. Breathable mesh upper, cushioned midsole, and a durable rubber outsole for reliable grip on any surface.",
   },
@@ -17,7 +17,7 @@ export const products = [
     category: "Electronics",
     brand: "Sonic",
     rating: 4,
-    image: "https://picsum.photos/seed/wireless-headphones/500/500",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDzqmhCYFN2FJlXbswCj3sctUrrpK0f9HatGy0kLiRfA&s=10",
     description:
       "Over-ear wireless headphones with active noise cancellation, 30-hour battery life, and quick-charge support for all-day listening.",
   },
@@ -28,7 +28,7 @@ export const products = [
     category: "Clothing",
     brand: "Trailhead",
     rating: 5,
-    image: "https://picsum.photos/seed/backpack/500/500",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKJxyNxpzQjtNAGUHuFtozc0RTyqRa37dOdIOImc9zxA&s=10",
     description:
       "A durable everyday backpack with a padded laptop sleeve, multiple compartments, and water-resistant fabric for commuting or travel.",
   },
@@ -39,7 +39,7 @@ export const products = [
     category: "Electronics",
     brand: "Sonic",
     rating: 4,
-    image: "https://picsum.photos/seed/smartwatch/500/500",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnvoFfQhQ2UgR2yFRBl1rMG5QJFF6mOOfC36CVnFuerg&s=10",
     description:
       "Track your workouts, heart rate, and sleep with this always-on smartwatch. Water resistant with a week-long battery life.",
   },
@@ -50,7 +50,7 @@ export const products = [
     category: "Clothing",
     brand: "Nova",
     rating: 3,
-    image: "https://picsum.photos/seed/sunglasses/500/500",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSTtLOPCvT6rCZRSpGz9BZWpZgTqQisuOSgtDftsIagA&s=10",
     description:
       "Polarized UV-protection sunglasses with a lightweight acetate frame, designed for everyday wear and long-lasting comfort.",
   },
@@ -61,7 +61,7 @@ export const products = [
     category: "Electronics",
     brand: "Lumex",
     rating: 5,
-    image: "https://picsum.photos/seed/digital-camera/500/500",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bAAsXstg_N6dLVx5JsVv8q7I4QzfjWXv5XeEY5jjxw&s=10",
     description:
       "A compact digital camera with a 24MP sensor, 4K video recording, and a fast autofocus system for crisp, detailed shots.",
   },
@@ -72,7 +72,7 @@ export const products = [
     category: "Clothing",
     brand: "Trailhead",
     rating: 4,
-    image: "https://picsum.photos/seed/t-shirt/500/500",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnesrm6PibrcsQsdO3XCo5Xxl0R2-gvFpmGvAUc3tiDw&s=10",
     description:
       "A soft, breathable cotton t-shirt with a relaxed fit, perfect for layering or wearing on its own.",
   },
@@ -82,55 +82,11 @@ export const products = [
     price: 699,
     category: "Electronics",
     brand: "Sonic",
-    rating: 4,
-    image: "https://picsum.photos/seed/smartphone/500/500",
+    rating: 5,
+    image: "https://f.nooncdn.com/p/pzsku/Z7460617E3FB9F4D158C9Z/45/_/1779705467/d1bd00ac-c28f-42dd-8786-a5dd60e567a1.jpg?width=480",
     description:
       "Lorem ipsum dolor amet, conssectetur euisagend. A powerful smartphone with an edge-to-edge display, all-day battery, and a versatile camera system.",
-  },
-  {
-    id: "9",
-    title: "Table Lamp",
-    price: 45,
-    category: "Home",
-    brand: "Nestwell",
-    rating: 4,
-    image: "https://picsum.photos/seed/table-lamp/500/500",
-    description:
-      "A warm-toned table lamp with a fabric shade and a sturdy ceramic base, ideal for reading nooks and bedside tables.",
-  },
-  {
-    id: "10",
-    title: "Coffee Mug Set",
-    price: 25,
-    category: "Home",
-    brand: "Nestwell",
-    rating: 5,
-    image: "https://picsum.photos/seed/coffee-mug-set/500/500",
-    description:
-      "A set of four stoneware coffee mugs, dishwasher and microwave safe, finished with a smooth matte glaze.",
-  },
-  {
-    id: "11",
-    title: "Throw Blanket",
-    price: 39,
-    category: "Home",
-    brand: "Nestwell",
-    rating: 4,
-    image: "https://picsum.photos/seed/throw-blanket/500/500",
-    description:
-      "A cozy woven throw blanket, soft to the touch and perfect for the couch or bed on cooler evenings.",
-  },
-  {
-    id: "12",
-    title: "Bluetooth Speaker",
-    price: 79,
-    category: "Electronics",
-    brand: "Sonic",
-    rating: 4,
-    image: "https://picsum.photos/seed/bluetooth-speaker/500/500",
-    description:
-      "A portable Bluetooth speaker with rich bass, 12-hour battery life, and an IPX7 waterproof rating.",
-  },
+  }
 ];
 
 export const categories = ["All", "Electronics", "Clothing", "Home"];
